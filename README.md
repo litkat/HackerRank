@@ -1,1 +1,1 @@
-# HackerRank
+![HackerRank Logo](images/hackerrank.png)
