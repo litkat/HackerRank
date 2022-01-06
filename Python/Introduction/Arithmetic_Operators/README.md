@@ -20,6 +20,10 @@ Print the following:
 The first line contains the first integer, _**a**_.   
 The second line contains the second integer, _**b**_.   
 
+### Constraints ###   
+**1 <= _a_ <= 10<sup>10</sup>   
+1 <= _b_ <= 10<sup>10</sup>**   
+
 ### Initial code: ###   
 ```s
 if __name__ == 'main__':   
