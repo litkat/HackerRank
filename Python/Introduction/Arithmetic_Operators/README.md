@@ -26,7 +26,7 @@ The second line contains the second integer, _**b**_.
 
 ### Initial code: ###   
 ```s
-if __name__ == 'main__':   
+if __name__ == '__main__':   
     a = int(input())   
     b = int(input())   
 ```
