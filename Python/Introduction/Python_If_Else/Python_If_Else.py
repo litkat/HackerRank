@@ -1,3 +1,4 @@
+n = int(input().strip())
 if n%2!=0 and 1<=n<=100:
     print('Weird')
 elif n%2==0 and 1<=n<=100 and 2<=n<=5:
