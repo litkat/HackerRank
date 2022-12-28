@@ -8,7 +8,7 @@ Add logic to print two lines. The first line should contain the result of intege
 No rounding or formatting is necessary.  
 
 ### Example   
-_**a **_= **3**   
+_**a**_ = **3**   
 _**b**_ = **5**   
 
 - The result of the integer division **3** // **5** = **0**.   
