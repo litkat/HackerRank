@@ -4,7 +4,7 @@ Query the two cities in **STATION** with the shortest and longest CITY names, as
 
 The **STATION** table is described as follows:   
 
-![This is a alt text.](/Weather_Observation_Station_5/Station.jpg "This is a sample image.") 
+![This is a alt text.](/MySQL/Basic_Select/Weather_Observation_Station_5/Station.jpg "This is a sample image.") 
 
 where **LAN_N** is the northern latitude and **LONG_W** is the western longitude.   
 
